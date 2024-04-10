@@ -1,0 +1,3 @@
+On branch testbranch00
+Your branch is ahead of 'origin/testbranch00' by 1 commit.
+  (use "git push" to publish your local commits)
